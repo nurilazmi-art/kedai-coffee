@@ -34,7 +34,7 @@ kedai-coffee/
 ```
 
 ## Pembagian Tugas
-| Anggota 1 Labib Awal Burhanuddin | Navbar + Hero | `feature/navbar-hero` |
+| Anggota 1 Irzaqi Zada Al Barkah | Navbar + Hero | `feature/navbar-hero` |
 | Anggota 2 Naufal Zaenul Arifin | Tentang Kami | `feature/about` |
 | Anggota 3 Yehezkiel Alfreda Lywa Tratama | Menu | `feature/menu` |
 | Anggota 4 Nuril Iman Azmi | Kontak, Footer, README | `feature/contact-docs` |
